@@ -11,4 +11,4 @@ title: Features
 | Markdown Powered      | Write in plain text—no HTML required.         |
 | Navigation Ready      | Link pages easily via Markdown hyperlinks.    |
 
-> **Pro Tip:** Add new feature pages with `git checkout -b feature/<name>`.
+> **Pro Tip:** Add new feature pages with `git checkout -b feature/<name>`. 
